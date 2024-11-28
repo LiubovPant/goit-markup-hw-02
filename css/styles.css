@@ -53,8 +53,6 @@ a {
 }
 
 .main-page {
-  width: 1440px;
-  height: 600px;
   background: #2e2f42;
 }
 
@@ -73,11 +71,7 @@ a {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
-  border-radius: 4px;
-  padding: 16px 32px;
-  width: 169px;
-  height: 56px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+
   background: #4d5ae5;
 }
 
@@ -148,8 +142,6 @@ a {
   color: #434455;
 }
 .section-three {
-  width: 1128px;
-  height: 1000px;
 }
 .portfolio {
   font-weight: 700;
